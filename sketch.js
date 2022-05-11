@@ -381,3 +381,9 @@ function centerVertical() {
     $(".container").css("transform", `translateY(${heightDifference}px)`);
   }
 }
+
+setTimeout(function(){
+
+window.location.href = "https://jadesheng.github.io/Comp-Viz-FInal-Project-2022/"}, 600000
+
+)
